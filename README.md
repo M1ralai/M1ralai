@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, i'm Miral 👋
 
-<!--
-**M1ralai/M1ralai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year CS undergrad. I'm into backend engineering and systems programming — the kind of work where you actually have to understand what's happening under the hood.
 
-Here are some ideas to get you started:
+Go is my language of choice right now. I like how it forces you to think about concurrency, memory, and architecture without hiding things behind abstractions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I tend to gravitate toward ambitious projects — distributed systems, large-scale backends, things that feel slightly too big for where I am. That's kind of the point.
+
+---
+
+## what i'm into
+
+- Backend engineering & API design
+- Distributed systems (reading papers, building toys, breaking things)
+- Systems programming in Go
+- Understanding how things work at the infrastructure level
+
+---
+
+## currently
+
+- 2nd year @ CS
+- Going deep on distributed systems
+- Getting better at Go every day
+
+---
+
+<sub>building things to understand them · somewhere between junior and dangerous</sub>
