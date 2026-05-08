@@ -1,4 +1,4 @@
-# hey, i'm Miral 👋
+# hey, i'm Atahan 👋
 
 2nd year CS undergrad. I'm into backend engineering and systems programming — the kind of work where you actually have to understand what's happening under the hood.
 
