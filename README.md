@@ -16,7 +16,6 @@ I tend to gravitate toward ambitious projects — distributed systems, large-sca
 - Understanding how things work at the infrastructure level
 
 ---
-
 ## currently
 
 - 2nd year @ CS
@@ -24,5 +23,7 @@ I tend to gravitate toward ambitious projects — distributed systems, large-sca
 - Getting better at Go every day
 
 ---
+
+![](https://github-readme-stats-ruddy-pi-63.vercel.app/api?username=M1ralai&include_all_commits=true&count_private=true)
 
 <sub>building things to understand them · somewhere between junior and dangerous</sub>
