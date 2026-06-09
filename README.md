@@ -24,6 +24,9 @@ I tend to gravitate toward ambitious projects — distributed systems, large-sca
 
 ---
 
-![](https://github-readme-stats-ruddy-pi-63.vercel.app/api?username=M1ralai&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-ruddy-pi-63.vercel.app/api?username=M1ralai&theme=transparent&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-ruddy-pi-63.vercel.app/apitop-langs/?username=M1ralai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 <sub>building things to understand them · somewhere between junior and dangerous</sub>
