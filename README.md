@@ -1,32 +1,16 @@
-# hey, i'm Atahan 👋
+# Atahan Demirer
 
-2nd year CS undergrad. I'm into backend engineering and systems programming — the kind of work where you actually have to understand what's happening under the hood.
+Computer Engineering student interested in backend systems, networking, and low-level programming. Mainly working with Go, C/C++, and PostgreSQL.
 
-Go is my language of choice right now. I like how it forces you to think about concurrency, memory, and architecture without hiding things behind abstractions.
+I build application backends and small systems projects to understand the boundaries between protocols, storage, concurrency, and architecture.
 
-I tend to gravitate toward ambitious projects — distributed systems, large-scale backends, things that feel slightly too big for where I am. That's kind of the point.
+## Featured projects
 
----
+- [notly-api](https://github.com/M1ralai/notly-api) — Modular Go backend with PostgreSQL, JWT/refresh authentication, WebSockets, Google Calendar OAuth, and observability.
+- [http-c](https://github.com/M1ralai/http-c) — Experimental HTTP server built from scratch in C with non-blocking I/O, parsing, routing, and middleware.
+- [multiplayer-snake](https://github.com/M1ralai/multiplayer-snake) — C++20 P2P networking prototype using UDP packets, room codes, STUN/UPnP helpers, and a tick-based simulation.
+- [DFS](https://github.com/M1ralai/DFS) — Distributed storage control-plane prototype covering node heartbeats, chunk placement, and replica metadata.
 
-## what i'm into
+## Current focus
 
-- Backend engineering & API design
-- Distributed systems (reading papers, building toys, breaking things)
-- Systems programming in Go
-- Understanding how things work at the infrastructure level
-
----
-## currently
-
-- 2nd year @ CS
-- Going deep on distributed systems
-- Getting better at Go every day
-
----
-
-![](https://github-readme-stats-ruddy-pi-63.vercel.app/api?username=M1ralai&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats-ruddy-pi-63.vercel.app/api/top-langs/?username=M1ralai&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=python,html,css,mdx,gdscript,tex)
-
-
-
-<sub>building things to understand them · somewhere between junior and dangerous</sub>
+Backend engineering, network programming, and systems fundamentals.
