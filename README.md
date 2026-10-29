@@ -1,4 +1,4 @@
-###Atahan Demirer###
+## Atahan Demirer ##
 Computer Engineering student interested in backend systems, networking, and low-level programming. Mainly working with Go, C/C++, and PostgreSQL.
 I build application backends and small systems projects to understand the boundaries between protocols, storage, concurrency, and architecture.
 
