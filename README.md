@@ -33,7 +33,7 @@ The distinction matters to me: I want the code I write and the work I explore wi
 These are **learning projects**, not claims of production-ready libraries. I prefer understanding a small implementation end to end over adding features just to make it look more impressive.
 
 ### Other experiments
-
+- **[chip-8](https://github.com/M1ralai/chip-8)** — Terminal-based CHIP-8 interpreter written in C, implementing instruction decoding, register and stack operations, sprite rendering, keyboard input, and CPU/timer scheduling without external graphics libraries.
 - **[spy](https://github.com/M1ralai/spy)** — React Native party game exploring gesture-driven interfaces, in-app purchases, and offline-first state.
 - **[Chokqu](https://github.com/Chokqu)** — A separate home for experiments made with substantial AI assistance. I use it to try ideas, investigate AI-assisted development workflows, and see what those tools can—and cannot—do.
 
